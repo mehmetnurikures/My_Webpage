@@ -1,0 +1,22 @@
+*{
+    box-sizing:border-box;
+}
+.row{
+    height: 50px;
+    width: 50%;
+    padding-left: 11%;
+}
+
+.col-sm{
+    font-size: 18px;
+    font-weight: bold;
+    padding-left: 2%;
+}
+.col-sm a:hover{
+    color: rgb(189, 36, 36);
+    transition: 5ms;
+    padding: 3%;
+   }
+
+
+
